@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5B39107C2735519500A523A0"
-               BuildableName = "youtube-dayonebuild.app"
-               BlueprintName = "Billboard"
-               ReferencedContainer = "container:Billboard.xcodeproj">
+               BuildableName = "Billboard.app"
+               BlueprintName = "youtube-dayonebuild"
+               ReferencedContainer = "container:youtube-dayonebuild.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5B39107C2735519500A523A0"
-            BuildableName = "youtube-dayonebuild.app"
-            BlueprintName = "Billboard"
-            ReferencedContainer = "container:Billboard.xcodeproj">
+            BuildableName = "Billboard.app"
+            BlueprintName = "youtube-dayonebuild"
+            ReferencedContainer = "container:youtube-dayonebuild.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5B39107C2735519500A523A0"
-            BuildableName = "youtube-dayonebuild.app"
-            BlueprintName = "Billboard"
-            ReferencedContainer = "container:Billboard.xcodeproj">
+            BuildableName = "Billboard.app"
+            BlueprintName = "youtube-dayonebuild"
+            ReferencedContainer = "container:youtube-dayonebuild.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
