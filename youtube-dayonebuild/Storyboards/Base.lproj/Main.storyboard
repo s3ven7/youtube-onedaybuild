@@ -69,7 +69,7 @@
                             </tableView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
-                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <color key="backgroundColor" red="0.12984204290000001" green="0.12984612579999999" blue="0.12984395030000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="kHl-S2-JSP" secondAttribute="trailing" id="Bkg-uU-QcU"/>
                             <constraint firstItem="kHl-S2-JSP" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="Oov-hp-SSm"/>
@@ -131,7 +131,7 @@
                             </stackView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="hGM-CY-5hr"/>
-                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <color key="backgroundColor" red="0.12984204290000001" green="0.12984612579999999" blue="0.12984395030000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="rMm-2i-n6S" firstAttribute="leading" secondItem="hGM-CY-5hr" secondAttribute="leading" constant="20" id="a15-Oi-dZA"/>
                             <constraint firstItem="rMm-2i-n6S" firstAttribute="top" secondItem="hGM-CY-5hr" secondAttribute="top" constant="50" id="kQ8-gg-FMj"/>
